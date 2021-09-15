@@ -1,6 +1,7 @@
 
 # ----------------------------------------
 # USAGE:
+# python3 weighted_average.py file_w_average_list template_pdb_file
 
 # ----------------------------------------
 # PREAMBLE:

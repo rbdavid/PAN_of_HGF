@@ -1,6 +1,7 @@
 
 # ----------------------------------------
 # USAGE:
+# python3 calc_avg_structure.py template_pdb_file trajectory/directory/path/regex model_num start_production_num end_production_num output_file
 
 # ----------------------------------------
 # PREAMBLE:
